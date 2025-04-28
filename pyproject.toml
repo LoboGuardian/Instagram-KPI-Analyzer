@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "instagram-kpi-analyzer"
+version = "0.1.0"
+description = "Un script en R que descarga publicaciones de Instagram usando Instaloader, calcula KPIs de engagement y visualiza la evolución en el tiempo."
+authors = ["LoboGuardian"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
