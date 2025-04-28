@@ -28,5 +28,5 @@ Este proyecto permite descargar datos de publicaciones públicas de Instagram, c
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/Instagram-KPI-Analyzer.git
+   git clone https://github.com/LoboGuardian/Instagram-KPI-Analyzer.git
    cd Instagram-KPI-Analyzer
